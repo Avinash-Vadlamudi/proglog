@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package twitter;
+
+
+option go_package = "github.com/example/path/gen;gen";
+
+
+message Tweet {
+    string message = 1;
+}

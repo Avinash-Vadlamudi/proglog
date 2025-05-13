@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/Avinash-Vadlamudi/proglog/internal/server"
-	// "proglog/internel/server"
+	// "github.com/Avinash-Vadlamudi/proglog/internal/server"
+	"proglog/internel/server"
 )
 
 func main() {
